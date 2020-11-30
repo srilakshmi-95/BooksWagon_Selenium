@@ -6,7 +6,7 @@ public class BaseClass {
     public WebDriver driver;
 
 
-    public void intialization() {
+    public void initialise() {
 
     }
 
